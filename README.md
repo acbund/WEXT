@@ -1,2 +1,3 @@
 # WEXT
-First attempt at a repository
+Computer science summative
+Please don't judge us
